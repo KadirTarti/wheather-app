@@ -29,7 +29,7 @@ React To-Do
 
 ### Project Planning & Management 🗺️
 
-Epic User Story: Developing a React App Application 
+Epic User Story: Developing a Weather App Application using React
 
 
 ## User Stories:
@@ -44,7 +44,7 @@ Epic User Story: Developing a React App Application
 
 Build a Weather App using axios
 
-### At the end of the project, we will be able to;
+### This project helped me develop the following skills:
 
 ⭐ improve coding skills within HTML & CSS & JS using axios
 
@@ -56,4 +56,4 @@ All contributions from different perspectives greatly enrich my projects! Whethe
 
 
 
-**<p align="center"> 💻 Happy Work 💻</p>** 
+**<p align="center"> 💻 *Always improve yourself* 💻</p>** 
