@@ -35,10 +35,15 @@ Epic User Story: Developing a Weather App Application using React
 ## User Stories:
 
 1-) As a user, I want to be able to enter the name of a city in the input field on the main screen.
+
 2-) As a user, I want to have the option to query weather information in both English and German languages.
+
 3-) As a user, I expect the weather information to be displayed on cards with corresponding icons for better visualization.
+
 4-) As a user, I want the previous search result to remain on the screen without refreshing completely with each new query.
+
 5-) As a user, I want the ability to remove the previous search result from the screen by clicking the 'x' button in the upper right corner of the card structure.
+
 
 ## Objective 🔍
 
